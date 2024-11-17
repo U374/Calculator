@@ -19,3 +19,7 @@ A visually appealing and fully functional calculator built using **HTML**, **CSS
 - **HTML**: For structuring the application.
 - **CSS**: For styling the calculator interface.
 - **JavaScript**: For interactive functionalities.
+
+---
+
+## Try it now here: https://u374.github.io/Calculator/
